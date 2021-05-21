@@ -14,7 +14,7 @@ Child processes usually take a while to finish so the shell will check on their 
 #### How to Run Code:
 Be sure to include all files within same directory before running code. Open up a new command line shell (e.g. Terminal), navigate to the directory where files are saved, and type/enter the following:
 
-$ make
+`$ make`
 
-$ ./commando
+`$ ./commando`
 
