@@ -1,0 +1,2 @@
+# commando
+The goal of this project is to write a simple, quasi-command line shell called commando. The shell will be less functional in many ways from standard shells like bash (default on most Linux machines), but will have some properties that distinguish it such as the ability to recall output for any child process. Commando uses a variety of system calls together to accomplish its overall purpose. 
